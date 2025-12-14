@@ -15,7 +15,7 @@ git pull
 
 
 git add .
-git commit -m "feat: 완료"
+git commit -m "feat: 우승자 출력 및 테스트 전까지 완료"
 git push
 
 git commit -m "feat: 함수형 인터페이스"
